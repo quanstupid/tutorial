@@ -1,0 +1,12 @@
+name: TutorialPlugin
+version: 1.0-SNAPSHOT
+main: tech.astolfo.tutorialplugin.TutorialPlugin
+
+prefix: AstolfoTutorial
+authors: [AstolfoDev]
+description: An example plugin for my repl.it tutorial!
+website: https://astolfo.tech
+
+commands:
+  tutorial:
+    usage: none
